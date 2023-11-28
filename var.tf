@@ -5,13 +5,13 @@ variable "region" {
 
 variable "akey" {
  description = "access_key"
- default = "AKIA2CD2CVB5YTA645T2"
+ default = 
   
 }
 
 variable "skey"{
   description = "secret_key"
-  default = "nospdlT2CVpPOnVVmWXANbo49bpdQZ6C0BMySHVg"
+  default = 
 
 }
 variable "vpc-cidr" {
