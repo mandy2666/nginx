@@ -41,7 +41,7 @@ variable "az" {
 
 variable "key" {
   description = "keypair"
-  default = "C:/mandykeys/public-key"
+  default = ""
 
 }
 
